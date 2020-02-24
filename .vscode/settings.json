@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/3b11a0c1-df36-4710-b1cc-0d4f2632e8f9/resourceGroups/tecgroup/providers/Microsoft.Web/sites/productos-app",
+  "appService.deploySubpath": ""
+}
